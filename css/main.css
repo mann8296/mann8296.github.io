@@ -25,6 +25,6 @@ p {
 }
 
 h1:hover {
-  background-image: repeating-linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red, violet);   -webkit-background-clip: text;
-  color: transparent;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red, violet);   -webkit-background-clip: text;
+  color: transparent; animation: rainbow_animation 6s ease-in-out infinite;
 }
