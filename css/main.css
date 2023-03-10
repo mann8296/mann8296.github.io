@@ -29,8 +29,8 @@ p {
   text-align: center;
 }
 
-.a:hover {
-  text-color: white;
+a:hover {
+  color: white;
 }
 
 h1:hover {
