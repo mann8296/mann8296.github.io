@@ -1,10 +1,11 @@
 body {
   background-color: rgb(220, 156, 240);
   background-image: linear-gradient(lightgray, purple);
+  min-height: 100vh;
 }
 
 img {
-  box-shadow: 10px 10px 5px darkgray;
+  box-shadow: 10px 10px 5px rgb(52, 52, 68);
   filter: brightness(75%);
   display: block;
   margin-left: auto;
