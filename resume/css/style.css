@@ -20,6 +20,11 @@ a {
     font-size: 22px;
     font-weight: bold;
 }
+img {
+    sizes="(min-width: 600px) 25vw, 
+            (min-width: 400px) 50vw, 
+            100vw"
+}
 h1 {
     padding-top: 40px;
     padding-bottom: 40px;
