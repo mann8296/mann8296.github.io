@@ -4,6 +4,16 @@ body {
   min-height: 100vh;
 }
 
+@media only screen and (max-width: 600px) {
+  img {
+    width: 300px;
+  }
+  .super {
+    width: 60px;
+    height: 70px;
+  }
+}
+
 img {
   box-shadow: 10px 10px 5px rgb(52, 52, 68);
   filter: brightness(75%);
