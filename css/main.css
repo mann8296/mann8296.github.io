@@ -6,11 +6,34 @@ body {
 
 @media only screen and (max-width: 600px) {
   img {
-    width: 300px;
+    width: 250px;
+  }
+
+  body, html, h1 {
+    width: 100vw;
+    margin: 0px;
+  }
+  .edu {
+    width: 240px;
+    height: 135px;
   }
   .super {
     width: 60px;
     height: 70px;
+  }
+  .butt {
+    width: 150px;
+  }
+  .supes {
+    width: 360px;
+    height: 600px;
+  }
+}
+
+@media only screen and (min-width: 720px) {
+  .edu {
+    width: 480px;
+    height: 270px;
   }
 }
 
