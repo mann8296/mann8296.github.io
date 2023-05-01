@@ -1,1 +1,7 @@
-
+body {
+    background-color: rgb(248, 229, 171);
+    text-align: center;
+}
+#site-brand {
+    text-align: left;
+}
