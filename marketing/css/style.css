@@ -56,10 +56,15 @@ p {
     align-items: center;
     box-shadow: 5px 5px rgb(31, 60, 98);
 }
+.loc {
+    font-size: 25pt;
+}
 #glass a {
     color: white;
 }
 #compricetab td, tr {
     border: 1px solid black;
-
+}
+#faqs h2 {
+    text-align: left;
 }
